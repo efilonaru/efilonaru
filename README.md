@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/efilonaru/efilonaru/devilman.gif" />
+  <img src="./devilman.gif" alt="Gif">
 </div>
 
 <!--
