@@ -35,8 +35,4 @@ Here are the tools and technologies I work with:
 
 <!-- ## 🎨 Design Assets
 When not coding, I enjoy exploring **3D modeling** and experimenting with **AI-generated art**. You can check out some designs [here](https://yourdesignportfolio.com). -->
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=efilonaru&show_icons=true&theme=radical)
-
 ---
