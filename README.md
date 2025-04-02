@@ -23,7 +23,6 @@ I'm Naufal - A passionate developer specializing in **mobile development**, **we
 
 ## 🚀 About Me
 - 🌱 Currently exploring **React**.
-- ✍️ Occasionally documenting my journey on my [personal blog](https://efilonaru.me).
 
 ## 🛠️ Tech Stack
 Here are the tools and technologies I work with:
