@@ -1,6 +1,14 @@
- <div align="center">
-  <img src="./devilman.gif" alt="Gif">
-</div> 
+⣿⣿⣿⣿⣿⣿⡿⠟⠋⠉⠉⠉⠙⠛⢿⣿⣿⣿⣿⣿
+⣿⣿⡟⢩⣶⠂⠄⠄⣠⣶⣿⣯⣉⣷⣦⠈⣻⣿⣿⣿
+⣿⣿⣿⣄⠁⠄⠄⢸⡿⠟⠛⠉⠉⠉⠛⢧⠘⣿⣿⣿
+⣿⣿⣿⡿⠄⠄⠄⠄⢀⠄⣠⡄⠄⠄⠄⠄⠄⢹⣿⣿
+⣿⣿⣿⡇⠄⠄⠄⣸⡘⢴⣻⣧⣤⢀⣂⡀⠄⢸⣿⣿
+⣿⣿⣿⡇⠄⠘⢢⣿⣷⣼⣿⣿⣿⣮⣴⢃⣤⣿⣿⣿
+⣿⣿⡿⠄⣠⣄⣀⣙⣿⣿⣿⣿⣿⡿⠋⢸⡇⢹⣿⣿
+⣿⣿⡇⠰⣻⣿⣿⣿⠿⠮⠙⠿⠓⠛⠄⠄⠈⠄⢻⣿
+⣿⡟⠄⠄⠈⠙⠋⠄⠄⠄⠄⠁⠄⠄⠄⠄⠄⠄⢾⣿
+⡏⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⠄⠄⠄⠄⠄⠄⠈⣿
+⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢹  
 
 <!--
 **efilonaru/efilonaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
