@@ -40,5 +40,5 @@ Here are the tools and technologies I work with:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
 
 <!-- ## 🎨 Design Assets
-When not coding, I enjoy exploring **3D modeling** and experimenting with **AI-generated art**. You can check out some designs [here](https://yourdesignportfolio.com). -->
----
+When not coding, I enjoy exploring **3D modeling** and experimenting with **AI-generated art**. You can check out some designs [here](https://yourdesignportfolio.com). 
+--- -->
